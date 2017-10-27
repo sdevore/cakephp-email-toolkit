@@ -12,6 +12,6 @@ Requirements
 Documentation
 -------------
 
-* [Overview](Documentation/overview.md)
-* [Installation](Documentation/installation.md)
-* [Usage](Documentation/configuration.md)
+* [Overview](Docs/overview.md)
+* [Installation](Docs/installation.md)
+* [Usage](Docs/configuration.md)
